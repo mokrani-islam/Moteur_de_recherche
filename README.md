@@ -13,6 +13,8 @@ l'accès au Projet se fait uniquement à partir du dossier Projet_Python_moteur_
 ### Interfaces
 
 <img width="889" alt="moteur_de_recherche" src="https://github.com/mokrani-islam/Mon_Moteur/assets/84641582/de13bf68-a1dc-4745-aed8-ba1f76cdd5e3">
+<img width="917" alt="resultat" src="https://github.com/mokrani-islam/Mon_Moteur/assets/84641582/eb458e49-b432-472a-ac28-b99d217ff7d4">
+
 
 ### Environemment de travail
 
