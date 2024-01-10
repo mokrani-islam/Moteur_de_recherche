@@ -4,8 +4,7 @@ Un moteur de recherche est un logiciel qui permet de trouver l’information rec
 
 Les moteurs de recherche peuvent générer des résultats rapidement, malgré la présence de millions de sites en ligne. Cela est possible, car les moteurs balaient l’Internet continuellement et indexent chaque page trouvée
 ## Présentation du Projet 
-
-Notre solution proposée est une application web basé en javascript et node js , Pour la méthodologie de travail nous avons opté pour La méthode scrum au vue des contraites temporelles pendant chaque sprint nous finalisons une partie du projet que nous intégrons continuellement sur ce dépot disant , Nous testons chemain faisant notre code grâce aux tests unitaires proposé par jest et nous alimentons notre documentation soit manuellement par le baiais de commentaire où bien grâce à Jsdoc
+la solution proposé est un moteur de recherche basé sur python en utilisant l'api praw PRAW: The Python Reddit API Wrapper et urllib.request afin de recupérer des informations à partir de Arxiv 
 
 ## Mode d'utilisation 
 
